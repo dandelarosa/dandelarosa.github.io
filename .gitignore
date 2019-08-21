@@ -1,2 +1,5 @@
 /.vagrant
 /ubuntu-bionic-18.04-cloudimg-console.log
+
+# Since this is served through GitHub Pages
+Gemfile.lock

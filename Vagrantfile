@@ -10,6 +10,10 @@ Vagrant.configure("2") do |config|
     rvm use 2.6.0
     gem install bundler
 
+    # Install Ruby dependencies
+    cd /vagrant
+    bundle install
+
     # Make /vagrant the default directory
     if ! grep -q "cd /vagrant" ~/.bashrc ; then 
       echo "cd /vagrant" >> ~/.bashrc 
