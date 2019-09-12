@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Bye, Lily"
+---
+So today was my coworker Lily’s last day. I haven’t been on the squad for very long but I've been pairing with her for the past two weeks to learn the ins and outs of our system. It's evident she knows her stuff and it's pretty clear she was heavily involved in our product's development, which is impressive for someone early in her career. She’ll be a valuable asset wherever she ends up.
+
+I was hired to be her teammate, but now I have to become her replacement instead. Welp.
