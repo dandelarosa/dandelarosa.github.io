@@ -15,15 +15,15 @@ Before you can transfer your site to a different domain, make sure you actually 
 
 Go to your site's repository on GitHub and head over to the Settings tab.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Click on 'Settings' or the gear icon")
+![alt text](https://cdn-blog.dandelarosa.net/2020/01/03/putting-github-pages-site-on-custom-domain/1.png "Click on 'Settings' or the gear icon")
 
 Scroll down to the section titled "GitHub Pages". You'll want to focus on where it says "Custom domain". Enter in your domain name in the text field and tap Save.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Setting the custom domain on your page")
+![alt text](https://cdn-blog.dandelarosa.net/2020/01/03/putting-github-pages-site-on-custom-domain/2.png "Setting the custom domain on your page")
 
 GitHub might indicate that the site hasn't been set up correctly - that's because your site's DNS settings haven't been updated yet. We'll cover that in the next step.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "The settings page before configuring DNS")
+![alt text](https://cdn-blog.dandelarosa.net/2020/01/03/putting-github-pages-site-on-custom-domain/3.png "The settings page before configuring DNS")
 
 # Modifying Your DNS Settings
 
@@ -43,10 +43,10 @@ DNS records may take up to 48 hours to fully propogate across the Internet.
 
 Once your domain name is linked with GitHub Pages, GitHub will automatically start setting up HTTPS support. Securing your site with HTTPS is a must-do nowadays since it assures users that they're going your actual site and not a malicious wannabe. GitHub says you'll need to wait 24 hours for them to set up HTTPS but in my case they had it ready in a matter of minutes. Reload your site's settings page to check on its progress.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "GitHub telling you to wait 24 hours for them to set up HTTPS on your site")
+![alt text](https://cdn-blog.dandelarosa.net/2020/01/03/putting-github-pages-site-on-custom-domain/4.png "GitHub telling you to wait 24 hours for them to set up HTTPS on your site")
 
 As an optional step, you can enforce HTTPS usage. Personally I choose to allow HTTPS connections only, which can be done by marking the checkbox on the page.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Mark the checkbox to allow HTTPS connections only")
+![alt text](https://cdn-blog.dandelarosa.net/2020/01/03/putting-github-pages-site-on-custom-domain/6.png "Mark the checkbox to allow HTTPS connections only")
 
 I hope this article helped you set up your GitHub Pages site on your custom domain.
