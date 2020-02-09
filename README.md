@@ -24,6 +24,10 @@ Use the `--force_polling` flag to work around the issue where the blog doesn't a
 
 `bundle exec jekyll serve --force_polling`
 
+To test Google Analytics
+
+`JEKYLL_ENV=production bundle exec jekyll serve --force_polling`
+
 # Shutting down
 
 Press ctrl-c to stop the server and `exit` out of the Vagrant SSH session.
