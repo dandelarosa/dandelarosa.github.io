@@ -46,3 +46,6 @@ exclude:
   - README.md
   - ubuntu-bionic-18.04-cloudimg-console.log
   - Vagrantfile
+
+# Google Analytics
+google_analytics: UA-113870458-4
