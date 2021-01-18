@@ -5,6 +5,11 @@ title: "2017: I Almost Started a Sports Bar (and Put My Friend in Financial Trou
 
 Welcome 2021! In lieu of a New Year’s Resolution I want to spend time to reflect on the course my life has taken and explore how I could’ve handled situations better. Over the next few weeks I’ll go over one mistake I made each of the past five years that hurt my career or other aspects of my life. I’ll describe what led me to the incident, how it affected me in the short term, and how it impacted me in the long run.
 
+Posts in this series:
+- [2016: I Kept My Return to Game Development a Secret]({% post_url 2021-01-03-mistake-2016-kept-game-development-a-secret %})
+- 2017: I Almost Started a Sports Bar (and Put My Friend in Financial Trouble)
+- [2018: I Let Personal Finance YouTube Channels Take Over My Life]({% post_url 2021-01-17-mistake-2018-personal-finance-took-over-my-life %})
+
 I almost started a business, and my mistake wasn’t abandoning it but rather pursuing it to begin with. So...why was this a bad thing?
 
 I’m an ideas guy. No, not an entrepreneur. At least those guys go out and put their ideas to the test. I just come up with random things, and then they fizzle away when I dismiss them for being too hard. Some of my ideas are completely off the rails, like a mining company that reclaims recyclable materials from landfills, or a parody of the musical _Hamilton_ based on the 2015 New York Mets.
