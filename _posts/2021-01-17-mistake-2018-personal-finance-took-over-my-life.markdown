@@ -9,6 +9,7 @@ Posts in this series:
 - [2016: I Kept My Return to Game Development a Secret]({% post_url 2021-01-03-mistake-2016-kept-game-development-a-secret %})
 - [2017: I Almost Started a Sports Bar (and Put My Friend in Financial Trouble)]({% post_url 2021-01-10-mistake-2017-almost-started-a-sports-bar %})
 - 2018: I Let Personal Finance YouTube Channels Take Over My Life
+- [2019: I Overcommitted]({% post_url 2021-01-24-mistake-2019-i-overcommitted-three-possible-futures %})
 
 Most people here understand that this is an engineer’s blog but I should probably include this disclaimer anyway: nothing in this post constitutes financial or investing advice.
 
