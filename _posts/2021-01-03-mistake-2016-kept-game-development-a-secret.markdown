@@ -10,6 +10,7 @@ Posts in this series:
 - [2017: I Almost Started a Sports Bar (and Put My Friend in Financial Trouble)]({% post_url 2021-01-10-mistake-2017-almost-started-a-sports-bar %})
 - [2018: I Let Personal Finance YouTube Channels Take Over My Life]({% post_url 2021-01-17-mistake-2018-personal-finance-took-over-my-life %})
 - [2019: I Overcommitted]({% post_url 2021-01-24-mistake-2019-i-overcommitted-three-possible-futures %})
+- [2020: I Failed to Be an Ally in a Pivotal Moment]({% post_url 2021-01-31-mistake-2020-i-failed-to-be-an-ally %})
 
 # The Struggle to Create
 
