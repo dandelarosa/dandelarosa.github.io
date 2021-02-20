@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Bye, Inhak"
+---
+
+I’ve had to [say goodbye to a teammate]({% post_url 2019-09-12-bye-lily %}) twice since I’ve had my current job, and it’s been about a year since [the last time this happened]({% post_url 2020-02-24-bye-kajal %}). I was hoping I wouldn’t have to do this again for a while, but alas our squad had another departure this week.
+
+This time it’s Inhak, an engineer who was on our team for a couple of years and who has been in Publicis overall for longer. He was pivotal in changing the culture of our team by introducing us to the [Scrum](https://www.scruminc.com/new-scrum-the-book/) methodology. He presented these ideas first with the team itself and later on with the rest of the office in a lunch and learn event. My manager was receptive to the presentation and he integrated parts of the methodology into our process, most notably [clean sprints](https://redgreenrepeat.com/2021/02/05/clean-sprints-how-i-help-my-team-get-to-them/).
+
+It wasn’t long ago when Inhak was one of the ones who interviewed me when I applied to join the team. He wanted to talk about some of the games I worked on in 2018, but I was a little embarrassed with how they turned out at the time. So I shifted the discussion and we talked about some of the startups we worked at instead.
+
+This made me lament how much the organization has shrunk over the past year. Our team was as large as six at one time, and as of today we’re down to three. Actually, a lot of people from other teams we know departed in 2020. The Groupe’s CEO made a pledge to keep everyone’s jobs during the COVID-19 pandemic, but that turned out to be unnecessary when a huge chunk of us left and found jobs elsewhere.
+
+So yeah, we’re planning to hire again soon. Stay tuned!
