@@ -31,4 +31,4 @@ After playing for eleven years, Steelers center Maurkice Pouncey [announced his 
 
 # Let’s Cut It Short!
 
-...and that’s it for the month! There was one more section I had lined up but it’s large enough to be its own blog post. Plus, I don’t want to bury the lead this for this one. Come back next week when I talk about blogging with my coworkers.
+...and that’s it for the month! There was one more section I had lined up but it’s large enough to be its own blog post. Plus, I don’t want to bury the lead this for this one. Come back next week when I talk about [blogging with my coworkers]({% post_url 2021-03-06-blogging-with-my-coworkers %}).
