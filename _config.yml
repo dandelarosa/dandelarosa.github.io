@@ -47,5 +47,10 @@ exclude:
   - ubuntu-bionic-18.04-cloudimg-console.log
   - Vagrantfile
 
+# For Feedly
+feed:
+  excerpt_only: true
+  tags: true
+
 # Google Analytics
 google_analytics: UA-113870458-4

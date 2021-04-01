@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Content Roundup: November 2020"
+tags: elsewhere-in-the-universe
 ---
 
 This month’s spotlight is all about Betterment’s product blog. It’s fun to see what other companies are up to and find out what they’ve done to improve their product over time. Let’s see what they’ve accomplished recently.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Content Spotlight: Super Bowl Edition (February 2021)"
+tags: elsewhere-in-the-universe
 ---
 
 In this segment I share interesting things I find on the Internet. Some of this stuff is related to engineering, but this segment is not restricted to that topic. It is mostly a break from the usual tutorials and essays, and it’s also an opportunity to reveal more about what I am like as a person. Expect posts like these to appear once a month.

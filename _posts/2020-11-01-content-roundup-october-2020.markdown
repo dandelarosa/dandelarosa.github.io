@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Content Roundup: October 2020"
+tags: elsewhere-in-the-universe
 ---
 
 A format I’m experimenting with is a compilation of things outside this blog, whether they’re projects I’m working on or content found elsewhere on the Internet. Expect posts like this to arrive once each month.
