@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Content Roundup: Best of 2020"
+tags: elsewhere-in-the-universe
 ---
 
 In this segment I like to share content I run into that’s not related to work. It’s not just a break from the usual engineering fare, it’s also an opportunity to reveal more about who I am as a person. Usually I’ll post things from creators I want to promote but sometimes I’ll share things I’ve made as well. 

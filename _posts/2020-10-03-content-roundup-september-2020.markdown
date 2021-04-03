@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Content Roundup: September 2020"
+tags: elsewhere-in-the-universe
 ---
 
 A new format I’m experimenting with is a compilation of updates on projects outside of this blog. Expect posts like this one to arrive once each month.
