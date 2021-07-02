@@ -9,3 +9,5 @@ _site
 
 # Since this is served through GitHub Pages
 Gemfile.lock
+/rvm-installer.asc
+/rvm-installer
