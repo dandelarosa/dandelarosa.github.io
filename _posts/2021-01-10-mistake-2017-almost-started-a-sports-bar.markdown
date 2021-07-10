@@ -45,7 +45,7 @@ Matt wrote a questionnaire to see if our target demographic was interested in ou
 >
 > As the customer base continues to grow, so will the variety of features, cuisines, drinks, and events at Craft62.
 
-After his visit, Matt quit his job and spent the next few months planning his move to New York. He was busy shopping for apartments and networking with people who could hire him, so we eventually stopped talking about Craft62. I started to have doubts about the bar so I was fortunate we didn’t go any further with business.
+After his visit, Matt quit his job and spent the next few months planning his move to New York. He was busy shopping for apartments and networking with people who could hire him, so we eventually stopped talking about Craft62. I started to have doubts about the bar so I was fortunate we didn’t go any further with the business.
 
 Craft62 wasn’t worth the risk. Neither of us knew how to run a bar, and if we jumped in right away we would have to learn the ins and outs of the business the hard way. Who knew what kind of trouble we would run into, whether it be rowdy customers, conflicts between workers, or penalties from safety violations. One of my family friends was an attorney and I wanted to use him as my legal resource, but refused to help because he watched numerous businesses fail and he didn’t want us to go through that experience. But most importantly, it would’ve sucked to spend all those nights and burn tens of thousands of dollars just to have the bar bring in the wrong crowd and scare away the guests I wanted to host.
 

@@ -27,7 +27,7 @@ I occasionally work with a separate agency in my organization located in Buenos 
 
 # Argentina
 
-December 8 is the [Feast of the Immaculate Conception](https://en.wikipedia.org/wiki/Immaculate_Conception). Since this holiday occurs on a Tuesday, Argentina adds the Monday of that week as a “[bridge day](https://en.wikipedia.org/wiki/Public_holidays_in_Argentina)” to end up with a four-day weekdend.
+December 8 is the [Feast of the Immaculate Conception](https://en.wikipedia.org/wiki/Immaculate_Conception). Since this holiday occurs on a Tuesday, Argentina adds the Monday of that week as a “[bridge day](https://en.wikipedia.org/wiki/Public_holidays_in_Argentina)” to end up with a four-day weekend.
 
 # Canada
 
