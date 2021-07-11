@@ -3,7 +3,7 @@ layout: post
 title: "Leading Up and Down the Chain of Command"
 ---
 
-_This is part nine of a series on Extreme Ownership. View the previous parts if you haven't already: [Part 1]({% post_url 2020-06-14-extreme-ownership-1 %}) [Part 2]({% post_url 2020-06-28-extreme-ownership-2 %}) [Part 3]({% post_url 2020-07-03-extreme-ownership-3 %}) [Part 4]({% post_url 2020-07-12-extreme-ownership-4 %}) [Part 5]({% post_url 2020-07-19-extreme-ownership-5 %}) [Part 6]({% post_url 2020-07-25-extreme-ownership-6 %}) [Part 7]({% post_url 2020-08-02-extreme-ownership-7 %}) [Part 8]({% post_url 2020-08-09-extreme-ownership-8 %}) [Part 9]({% post_url 2020-08-16-extreme-ownership-9 %})_
+_This is part ten of a series on Extreme Ownership. View the previous parts if you haven't already: [Part 1]({% post_url 2020-06-14-extreme-ownership-1 %}) [Part 2]({% post_url 2020-06-28-extreme-ownership-2 %}) [Part 3]({% post_url 2020-07-03-extreme-ownership-3 %}) [Part 4]({% post_url 2020-07-12-extreme-ownership-4 %}) [Part 5]({% post_url 2020-07-19-extreme-ownership-5 %}) [Part 6]({% post_url 2020-07-25-extreme-ownership-6 %}) [Part 7]({% post_url 2020-08-02-extreme-ownership-7 %}) [Part 8]({% post_url 2020-08-09-extreme-ownership-8 %}) [Part 9]({% post_url 2020-08-16-extreme-ownership-9 %})_
 
 Leadership is bidirectional. On one hand, leaders must give a sufficient explanation on why a team embarks on a mission and how they fit into the bigger picture. On the flip the side, leaders have the ability to influence their superiors as well. Like in the book _Extreme Ownership_, I’ll provide anecdotes that demonstrate the importance of communication up and down the org chart.
 

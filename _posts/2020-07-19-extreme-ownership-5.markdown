@@ -3,7 +3,7 @@ layout: post
 title: "Cover and Move"
 ---
 
-_This is part four of a series on Extreme Ownership. View the previous parts if you haven't already: [Part 1]({% post_url 2020-06-14-extreme-ownership-1 %}) [Part 2]({% post_url 2020-06-28-extreme-ownership-2 %}) [Part 3]({% post_url 2020-07-03-extreme-ownership-3 %}) [Part 4]({% post_url 2020-07-12-extreme-ownership-4 %})_
+_This is part five of a series on Extreme Ownership. View the previous parts if you haven't already: [Part 1]({% post_url 2020-06-14-extreme-ownership-1 %}) [Part 2]({% post_url 2020-06-28-extreme-ownership-2 %}) [Part 3]({% post_url 2020-07-03-extreme-ownership-3 %}) [Part 4]({% post_url 2020-07-12-extreme-ownership-4 %})_
 
 It’s funny how large software platforms come to be. These behemoths are composed of numerous subsystems, each of which could be a separate product in their own right. These elements were developed by disparate teams, none of them sharing a common vision. Sometimes these systems were in fact separate products in a past life, only glued together as a result of corporate mergers and acquisitions.
 
