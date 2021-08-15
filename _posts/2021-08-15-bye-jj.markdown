@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bye, JJ"
+summary: "Saying goodbye to another teammate"
+excerpt: "Saying goodbye to another teammate"
+---
+
+Last week, my teammate JJ landed a new gig and left the company. With this turn of events, everyone on the original team I was on (apart from my manager) has moved on to greener pastures.
+
+We were able to hire a software engineer this summer and I thank JJ for helping me get him onboarded. However, this newest departure makes hiring even more important of a priority than ever. We're still interviewing for an [Associate Software Engineer role](https://smrtr.io/58mbW), and we'll start looking for more backfills as well. Feel free to contact me [@dandelarosadev](https://twitter.com/dandelarosadev) on Twitter for details.
