@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "How Mike Tomlin Handles Roster Cuts"
-summary: "The ways a coach demonstrates leadership skills when making a difficult situation."
-excerpt: "The ways a coach demonstrates leadership skills when making a difficult situation."
+summary: "The ways a coach demonstrates leadership skills when making a difficult decision."
+excerpt: "The ways a coach demonstrates leadership skills when making a difficult decision."
 ---
 
 In the Super Bowl Era, the Pittsburgh Steelers have had three head coaches: Chuck Noll, Bill Cowher, and Mike Tomlin. During this time, the team won a league-leading six Super Bowl wins. It was the coaches' ability to deliver results that kept them employed. To illustrate why low turnover is important, the New York Jets have had [eighteen head coaches](https://en.wikipedia.org/wiki/List_of_New_York_Jets_head_coaches) between 1967 and the present and they could only muster a single Super Bowl title in that timespan.
@@ -29,4 +29,4 @@ Coach Tomlin exemplifies strong leadership in the following ways:
 - **He establishes the rules of engagement.** By speaking first, Tomlin is able accomplish his objective (explain why the cut was made) without the other party disrupting the conversation.
 - **He opens the floor once his mission is complete.** Once the news is delivered, the player can express his feelings on the decision. The player is allowed to disagree, but ultimately the decision cannot be undone. Tomlin, however, can clarify certain points, provide advice on next steps, or simply let the player walk.
 
-Firing a team member is always a difficult experience, can it be an easier experience for everyone if you execute it these ideas in mind. Confront the decision head on and stay firm with the decision, but remain empathetic and offer you assistance with the transition.
+Firing a team member is always a difficult experience, but it can be an easier experience for everyone if you execute it these ideas in mind. Confront the decision head on and stay firm with the decision, but remain empathetic and offer your assistance with the transition.
