@@ -19,7 +19,7 @@ title: blog.dandelarosa.net
 author: Dan Dela Rosa
 email: "dandelarosadeveloper [at gmail dot com]"
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a senior engineer at Epsilon, previously at Makr, Callaway Digital Arts, and Gameloft. Come here for developer tips and musings on engineering practices. Opinions expressed here are solely my own and do not reflect the views of my employer or other organizations.
+  Once mobile dev at a startup, now a fullstack engineer. Come here for developer tips and musings on engineering practices. Opinions expressed are my own.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dandelarosadev
@@ -44,8 +44,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
-  - ubuntu-bionic-18.04-cloudimg-console.log
-  - Vagrantfile
 
 # For Feedly
 feed:
