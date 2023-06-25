@@ -28,9 +28,10 @@ linkedin_username: dandelarosa
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -51,4 +52,4 @@ feed:
   tags: true
 
 # Google Analytics
-google_analytics: UA-113870458-4
+google_analytics: G-BH605XNHW1
